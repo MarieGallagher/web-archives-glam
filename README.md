@@ -2,7 +2,7 @@
 
 See the [web archives section](https://glam-workbench.github.io/web-archives/) of the [GLAM Workbench](https://glam-workbench.github.io/) for more information.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GLAM-Workbench/web-archives/master?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MarieGallagher/web-archives-glam/master?urlpath=lab)
 
 ----
 
